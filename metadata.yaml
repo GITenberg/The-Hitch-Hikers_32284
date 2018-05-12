@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35770'
     url: http://www.gutenberg.org/2009/agents/35770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32284#The-Hitch-Hikers
 gutenberg_issued: '2010-05-07'
 gutenberg_type: Text
 identifiers:
