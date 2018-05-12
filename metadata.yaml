@@ -1,0 +1,29 @@
+_repo: The-Hitch-Hikers_32284
+_version: 0.1.0
+alternative_title: The Hitchhikers
+covers:
+- cover_type: archival
+  image_path: 32284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McCain, Vernon L.
+    gutenberg_agent_id: '35770'
+    url: http://www.gutenberg.org/2009/agents/35770
+description: ''
+gutenberg_issued: '2010-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Martians -- Fiction'
+title: The Hitch Hikers
+url: http://www.gutenberg.org/ebooks/32284
